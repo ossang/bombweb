@@ -1,2 +1,0 @@
-# bombweb
-bombweb
